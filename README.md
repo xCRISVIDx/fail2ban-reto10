@@ -13,5 +13,3 @@ Autor: Cristian Vargas.
 - 2 VMs Ubuntu Server 26.04.1 LTS en VirtualBox, Red NAT 10.0.2.0/24.
 - f2b-servidor 10.0.2.7 (SSH, Nginx, Fail2Ban, UFW) y f2b-atacante 10.0.2.8.
 
-## Nota
-Las contrasenas de prueba no se incluyen en este repositorio.
