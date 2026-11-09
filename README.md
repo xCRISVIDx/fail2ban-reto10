@@ -1,6 +1,6 @@
 # Reto 10 - Seguridad operacional con Fail2Ban
 
-Proyecto integrador de Sistemas Operacionales (12997), Universidad El Bosque, 2026-2.
+Proyecto integrador de Sistemas Operacionales, Universidad El Bosque, 2026-2.
 Autor: Cristian Vargas.
 
 ## Que contiene
